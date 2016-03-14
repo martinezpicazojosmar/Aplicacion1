@@ -9,11 +9,11 @@
  
  <name>Aplicacion uno DATOSALUNMOS</name>
  
- <descrption>
-   Aplicacion  que muestralos DATOS del alumno
+ <description>
+   Aplicacion  que muestra los DATOS del alumno
    </description>
    
-   <preference name="phonegap-verccion" value="3.1.0"/>
+   <preference name="phonegap-vercion" value="3.1.0"/>
    
    <author href="https://build.phonegap.com" email="support@phonegap.com">
    Oscar Josmar Martinez Picazo
